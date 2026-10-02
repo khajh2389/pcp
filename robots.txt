@@ -1,0 +1,22 @@
+# Player.com.ph robots.txt
+# Public launch page: allow search and generative-AI discovery.
+# robots.txt controls crawling access; it is not a security boundary.
+
+User-agent: *
+Allow: /
+
+# Reserved paths for future private or operational areas.
+# Remove or adjust these only if these paths become public content.
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+Disallow: /draft/
+
+# Allow Google's generative-AI systems to use crawlable public content
+# for Gemini grounding and future model training.
+# This does not affect Google Search inclusion or ranking.
+User-agent: Google-Extended
+Allow: /
+
+# Canonical sitemap for Google Search Console and other crawlers.
+Sitemap: https://player.com.ph/sitemap.xml
