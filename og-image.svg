@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Player.com.ph — Choose with more clarity.</title>
+  <desc id="desc">A player-first starting point for iGaming platforms, offers, and information in the Philippines.</desc>
+  <rect width="1200" height="630" fill="#0b0d12"/>
+  <circle cx="960" cy="90" r="300" fill="#c6f36b" opacity="0.08"/>
+  <circle cx="180" cy="570" r="260" fill="#816fff" opacity="0.08"/>
+  <rect x="82" y="82" width="56" height="56" rx="16" fill="none" stroke="#c6f36b" stroke-width="2"/>
+  <text x="110" y="121" fill="#c6f36b" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle">P</text>
+  <text x="158" y="119" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">Player.com.ph</text>
+  <text x="82" y="280" fill="#c6f36b" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4">FOR PLAYERS IN THE PHILIPPINES</text>
+  <text x="82" y="390" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">Choose with</text>
+  <text x="82" y="474" fill="#f5f7fb" font-family="Arial, Helvetica, sans-serif" font-size="74" font-weight="700" letter-spacing="-3">more clarity.</text>
+  <text x="82" y="550" fill="#a7adba" font-family="Arial, Helvetica, sans-serif" font-size="22">iGaming platforms · offers · information</text>
+</svg>
